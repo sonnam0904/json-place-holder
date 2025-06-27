@@ -1,0 +1,36 @@
+[
+  {
+    "key": "cable_car_schedule",
+    "value": "08:00 – 21:00",
+    "description": "Giờ hoạt động của các tuyến cáp treo chính trong ngày (chuyến sớm nhất đến chuyến muộn nhất)",
+    "last_updated": "2025-06-27"
+  },
+  {
+    "key": "ticket_price",
+    "value": {
+      "adult": "750,000 VND",
+      "child": "550,000 VND"
+    },
+    "value_descriptions": {
+      "adult": "Giá vé cho người lớn",
+      "child": "Giá vé cho trẻ em"
+    },
+    "description": "Giá vé vào cổng khu du lịch cho người lớn và trẻ em, áp dụng cho ngày thường",
+    "last_updated": "2025-06-27"
+  },
+  {
+    "key": "weather_top",
+    "value": {
+      "temperature": "18°C",
+      "rain": false,
+      "fog": true
+    },
+    "value_descriptions": {
+      "temperature": "Nhiệt độ hiện tại tại đỉnh núi (theo độ C)",
+      "rain": "Có mưa hay không tại thời điểm hiện tại",
+      "fog": "Tình trạng sương mù: true nếu có sương mù"
+    },
+    "description": "Thông tin thời tiết hiện tại tại đỉnh núi Bà Nà",
+    "last_updated": "2025-06-27"
+  }
+]
